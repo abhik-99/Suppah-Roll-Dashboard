@@ -23,8 +23,11 @@
     "@mui/material": "5.11.10",
     "@mui/system": "5.11.9",
     "@mui/x-date-pickers": "5.0.19",
+    "@web3modal/ethereum": "^2.2.2",
+    "@web3modal/react": "^2.2.2",
     "apexcharts": "3.37.0",
     "date-fns": "2.29.3",
+    "ethers": "^5.7.2",
     "formik": "2.2.9",
     "next": "13.1.6",
     "nprogress": "0.2.0",
@@ -33,6 +36,7 @@
     "react-apexcharts": "1.4.0",
     "react-dom": "18.2.0",
     "simplebar-react": "^3.2.1",
+    "wagmi": "^0.12.6",
     "yup": "1.0.0"
   },
   "devDependencies": {
